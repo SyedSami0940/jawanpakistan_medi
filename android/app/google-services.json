@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840601767050",
+    "project_id": "signupapp-3b981",
+    "storage_bucket": "signupapp-3b981.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840601767050:android:2de6592463730cebb1b173",
+        "android_client_info": {
+          "package_name": "com.example.onlinemedical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95IL0KAhtckV-ziyoEr5RV9ljyxSl680"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840601767050:android:0e77819c621c1827b1b173",
+        "android_client_info": {
+          "package_name": "com.example.singup_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95IL0KAhtckV-ziyoEr5RV9ljyxSl680"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
